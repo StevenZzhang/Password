@@ -1,1 +1,1 @@
-# Password
+The user will create a username/password. Username/password will be stored as an object variable. The password MUST contain 1 upper, 1 lower, 1 special char, 1 number, and be at least 10 digits long. If not, your constructor MUST prompt the user to enter a valid password. Regarding the password, your project will NEVER store their raw password anywhere
